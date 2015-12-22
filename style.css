@@ -1,10 +1,18 @@
 p {
+	font-size: 12pt;
 	color: #FF0000;
 }
 
 h1 {
+	font-size: 24pt;
     color: #4040bf;
 }
+
+h2 {
+	font-size: 24pt;
+    color: #2c8511;
+}
+
 
 
 body {
